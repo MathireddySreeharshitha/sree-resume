@@ -1,0 +1,54 @@
+{
+	"basics":{
+"name":"SREEHARSHITHA",
+"email":"sreeharshithamathireddy@gmail.com",
+"mobile":"6758556873"
+	},
+	"career":{
+	"info":
+	"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+"Education":[
+{
+	"Degree":"B.Tech(C.S.E)",
+	"Institute":"AVANTHI",
+	"Data":["2015-19","83%"]
+},
+{
+     "Degree":"Intermediate (M.P.C)",
+	 "Institute":"NARAYANA junior college,Narsipatnam",
+	 "Data":["2013-15","92%"]
+},
+{
+    "Degree":"S.S.C",
+	"Institute":"H.M.K High School,Vijayawada",
+	"Data":["2012-13","95%"]
+}
+	],
+	"Skills":[
+	{
+	"Title":"Programming Languages",
+	"info":["C","C++","Java","HTML"]
+},
+{
+    "Title":"Databases",
+    "info":["mySql","Oracle"]
+
+},
+{
+	"Title":"Web Technologies",
+	"info":["HTML5","CSS3"]
+},
+{
+	"Title":"Libraries and Frameworks",
+	"info":["ionic","Angular","expressJs",".Net"]
+},
+{
+	"Title":"Operating Systems",
+	"info":["Linux","Windows","Dos"]
+    }
+
+  ]
+
+}
+
